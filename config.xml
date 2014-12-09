@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="com.example.bet333" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Plansbiz Technologies</name>
+    <description>
+      Plansbiz Technologies
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+       Gopakumar
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
+
+
+
